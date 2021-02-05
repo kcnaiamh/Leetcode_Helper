@@ -1,4 +1,4 @@
-# Leetcode-Helper
+# Leetcode_Helper
 
 ### INSTALLATION
 1. Download leetcode_helper.jar file
